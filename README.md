@@ -1,8 +1,7 @@
 ### Hi there! :wave: I'm Karthikeya Racharla
 
 
-I recently completed my Masters in Business Analytics (PGDBA class of 2021) jointly offered by IIM Calcutta, ISI, IIT Kharagpur. I earned my Bachelor's from IIT Kharagpur (class of 2017) and have 3 years of professional experience in the Analytics Industry, working across wide variety of Data Science and Machine Learning applications to improve Business outcomes.
-
+I recently completed my Masters in Business Analytics (PGDBA class of 2021) jointly offered by IIM Calcutta, ISI, IIT Kharagpur. Prior to my masters, I completed my Bachelor's from IIT Kharagpur (class of 2017) and 3 years of professional experience in Analytics, helping wide range of businesses improve their outcomes using Applied Data Science and Machine Learning.
 
 🔭 Currently working at PayPal's Business Analytics unit to improve Product Experiences for consumers & merchants  
 
