@@ -10,6 +10,6 @@ I recently completed my Masters in Business Analytics (PGDBA class of 2021) join
 💬 Lets talk on emerging technology, Data Science, Personal Finance, sustainablity and amateur Philosophy. Feel free to look around, check out my portfolio, or get in touch :)  
 
 [![E-mail](https://img.shields.io/badge/Gmail-racharlakba2021@email.iimcal.ac.in-%23EA4335?logo=Gmail)](mailto:racharlakba2021@email.iimcal.ac.in)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthikeya%20Racharla-blue?logo=LinkedIn)](https://www.linkedin.com/in/karthikeyaracharla/) 
-[![Twitter](https://img.shields.io/badge/Twitter-karthikeya_kgp-%231DA1F2?style=flat-square&logo=twitter)](https://www.twitter.com/karthikeya_kgp/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthikeya%20Racharla-blue?logo=LinkedIn)](https://www.linkedin.com/in/karthikeyaracharla/)  
+[![Twitter](https://img.shields.io/badge/Twitter-karthikeya_kgp-%231DA1F2?style=flat-square&logo=twitter)](https://www.twitter.com/karthikeya_kgp/)  
 <!-- [![Website](https://img.shields.io/badge/Website-kracharla.github.io-orange%234285F4?logo=GoogleChrome)](https://kracharla.github.io/)  -->
