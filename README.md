@@ -10,7 +10,7 @@ I combine technical proficiency with research-driven insights to solve complex p
 
 💬 Feel free to reach out for collaboration opportunities.
 
-[![E-mail](https://img.shields.io/badge/Gmail-racharlakba2021@email.iimcal.ac.in-%23EA4335?logo=Gmail)](mailto:karthikeyaracharla[at]gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthikeya%20Racharla-blue?logo=LinkedIn)](https://www.linkedin.com/in/karthikeyaracharla/)  
+[![E-mail](https://img.shields.io/badge/Gmail-karthikeyaracharla-%23EA4335?logo=Gmail)](mailto:karthikeyaracharla[at]gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthikeya-blue?logo=LinkedIn)](https://www.linkedin.com/in/karthikeyaracharla/)  
 [![Twitter](https://img.shields.io/badge/Twitter-karthikeya_kgp-%231DA1F2?style=flat-square&logo=twitter)](https://www.twitter.com/karthikeya_kgp/)  
 [![Website](https://img.shields.io/badge/Website-karthikeyaR.github.io-orange%234285F4?logo=GoogleChrome)](https://karthikeyaR.github.io/)
