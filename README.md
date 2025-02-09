@@ -1,16 +1,13 @@
 ### Hi there! :wave: I'm Karthikeya Racharla
 
-Analytics Practitioner and avid learner with hands-on experience in delivering tangible business outcomes using Applied Data Science and Machine Learning. I completed my Masters in Business Analytics (PGDBA, class of 2021) jointly offered by IIM Calcutta, ISI, IIT Kharagpur. Prior to my masters, I completed my Bachelor's from IIT Kharagpur (class of 2017).
+I am a Senior Data Scientist and Machine Learning Engineer with 7 years of experience delivering impactful AI solutions. Currently at PayPal, I work on enhancing product experiences and improving risk management within our two-sided network. My expertise spans applied data science, machine learning, and AI, with a strong track record of driving business outcomes. I hold a Masters in Business Analytics from IIM Calcutta, ISI, and IIT Kharagpur (PGDBA/2021), and Bachelor's degree from IIT Kharagpur (2017).
 
-Specialties: Product Analytics & Strategy, Data Mining, Predictive Modelling, Statistical Modelling, BI, ML/AI apps
+I combine technical proficiency with research-driven insights to solve complex problems across various domains, including NLP/text/image areas, and building practical ML/AI applications.
+🔭 My work has been recognized at prestigious conferences like IEEE BigMM and IEEE SPIN.
+🌱 I am currently focused on creating AI-driven solutions that deliver measurable business impact.
+💬 Feel free to reach out for collaboration opportunities.
 
-🔭 Currently working at PayPal to improve Product Experiences for consumers & merchants 2-sided network
-
-🌱 Strongly driven by the passion to unravel complexities in data and data-driven decision making. I look forward to collaborate with industry professionals, academic researchers on AI/ML use cases  
-
-💬 Let's talk on emerging tech, Data Science, Personal Finance, Sustainablity and amateur Philosophy. Feel free to look around, check out my portfolio, or get in touch :)
-
-[![E-mail](https://img.shields.io/badge/Gmail-racharlakba2021@email.iimcal.ac.in-%23EA4335?logo=Gmail)](mailto:racharlakba2021@email.iimcal.ac.in)  
+[![E-mail](https://img.shields.io/badge/Gmail-racharlakba2021@email.iimcal.ac.in-%23EA4335?logo=Gmail)](mailto:karthikeyaracharla[at]gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthikeya%20Racharla-blue?logo=LinkedIn)](https://www.linkedin.com/in/karthikeyaracharla/)  
 [![Twitter](https://img.shields.io/badge/Twitter-karthikeya_kgp-%231DA1F2?style=flat-square&logo=twitter)](https://www.twitter.com/karthikeya_kgp/)  
-<!-- [![Website](https://img.shields.io/badge/Website-kracharla.github.io-orange%234285F4?logo=GoogleChrome)](https://kracharla.github.io/)  -->
+[![Website](https://img.shields.io/badge/Website-karthikeyaR.github.io-orange%234285F4?logo=GoogleChrome)](https://karthikeyaR.github.io/)
